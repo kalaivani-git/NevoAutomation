@@ -1,17 +1,3 @@
-﻿#region File Header
-/*  ----------------------------------------------------------------------------
- *  NibrasUTTest Automation : ConcertIDC
- *  ----------------------------------------------------------------------------
- *  ----------------------------------------------------------------------------
- *  File:
- *  Author:    Nagabhushana A
- *  Reworker: 
- *  Description : Base Class created
- *  Creation Date: 17-11-2023
- *  Modified Date: 
- *  ----------------------------------------------------------------------------
- */
-#endregion
 using AventStack.ExtentReports;
 using AventStack.ExtentReports.Reporter;
 using Microsoft.Extensions.Configuration;
