@@ -8,7 +8,7 @@ namespace Nevo
 {
     public class CommonUtils : BaseClass
     {
-     
+
         string elementText = null;
         Actions action = new Actions(driver);
         IList<IWebElement> listOfwebElements;
